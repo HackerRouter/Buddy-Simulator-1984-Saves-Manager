@@ -65,6 +65,6 @@ Commands For Buddy Simulator 1984 Saves Manager
 ------
 **WARNING:**
 ------
-DON'T TYPE `Reset` before you BACKUP your game save file
+DON'T TYPE `Reset` if you DON'T HAVE ANY BACKUPS.
 
-And DON'T TYPE`Delete All`if you DON'T HAVE ANY BACKUPS and you RESET your current game save file.
+And DON'T TYPE`Delete All`if you RESET your current game save file and DIDN'T REPLACE it with your backups.
