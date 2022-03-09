@@ -20,6 +20,8 @@ Yeah, yeah, just keep reading this, thank you. :)
 
 >Then type `backup` to backup your game save file.
 
+>Your saves are located in the registry. `HKEY_CURRENT_USER > SOFTWARE > Not A Sailor Studios > Buddy Simulator 1984`
+
 ------
 Commands For Anekom Official OS
 ------
