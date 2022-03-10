@@ -1,4 +1,4 @@
-# Buddy-Simulator-1984-Saves-Manager
+# Buddy Simulator 1984 Saves Manager
 
 Declaration:
 The Buddy Simulator 1984 Saves Manager has nothing related to the game developers of Buddy Simulator 1984.
@@ -13,6 +13,8 @@ So...
 Hey! DON'T CLOSE the tab before you read all of the texts, please.
 
 Yeah, yeah, just keep reading this, thank you. :)
+
+If you still don't know how to use it after reading the textx below, you can watch this video: [Buddy Simulator 1984 Saves Manager Official Guide](https://www.bilibili.com/video/BV1CS4y1S7Ac)
 
 >**Quick tip for those who don't want to read texts down here:**
 
