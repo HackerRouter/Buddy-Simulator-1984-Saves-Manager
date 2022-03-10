@@ -40,7 +40,7 @@ Commands For Anekom Official OS
 ------
 Hidden Commands For Anekom Official OS
 ------
-[`Uninstall Buddy Simulator 1984`] This will allow you uninstall the fake Buddy Simulator 1984, but it actually does nothing now(I haven't write codes to make it delete the fake game)
+[`Uninstall Buddy Simulator 1984`] This will allow you uninstall the fake Buddy Simulator 1984. (The admin password is `myfriendmilo` .)
 
 [```"Run"" "" "```] You will be able to launch Buddy Simulator 1984(on Steam) by typing it for 4 times. Also, you can type "quit" to quit the real game.(*~~Once I type this in game and it didn't say "'Run' by itself is not valid". I guess this is a bug of the game, maybe? That's why I add it, lol~~*)**Do not type the quotation marks.**
 
@@ -69,4 +69,4 @@ Commands For Buddy Simulator 1984 Saves Manager
 ------
 DON'T TYPE `Reset` if you DON'T HAVE ANY BACKUPS.
 
-And DON'T TYPE`Delete All`if you RESET your current game save file and DIDN'T REPLACE it with your backups.
+And DON'T TYPE `Delete All` if you RESET your current game save file and DIDN'T REPLACE it with your backups.
