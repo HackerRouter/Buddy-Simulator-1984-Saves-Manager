@@ -18,11 +18,11 @@ If you still don't know how to use it after reading the textx below, you can wat
 
 >**Quick tip for those who don't want to read texts down here:**
 
->Type `run buddy simulator 1984 saves manager` to run BS1984 Saves Manager.
+>Type `run bs1984sm` to run BS1984 Saves Manager.
 
 >Then type `backup` to backup your game save file.
 
->Your saves（not backups) are located in the registry. `HKEY_CURRENT_USER > SOFTWARE > Not A Sailor Studios > Buddy Simulator 1984`
+>Your saves（not backups) are actually located in the registry. `HKEY_CURRENT_USER > SOFTWARE > Not A Sailor Studios > Buddy Simulator 1984`
 
 ------
 Commands For Anekom Official OS
@@ -49,6 +49,11 @@ Hidden Commands For Anekom Official OS
 ------
 Commands For Buddy Simulator 1984 Saves Manager
 ------
+
+[`Run BS1984`] Enter 'Run BS1984' to launch your game.
+
+[`Quit BS1984`] Enter 'Quit BS1984' to quit your game.
+
 [`Backup`] - Enter 'Backup' followed by the title of the backups of the save you want to name.(Not required)
 
 [`View Backups`] - Enter 'View Backups' to view the list of all the backups.
@@ -65,6 +70,11 @@ Commands For Buddy Simulator 1984 Saves Manager
 
 [`Quit`] - Enter 'Quit' at any time to quit Buddy Simulator 1984 Saves Manager.
 
+
+------
+TIPS:
+------
+· You can type `?` instead of typing `help`, and type `run bs1984`(in BS1984SM) or `run bs1984mng` instead of typing `run buddy simulator 1984`(Well, you can't actually type this now.) or `run buddy simulator 1983 saves manager`.
 
 ------
 **WARNING:**
