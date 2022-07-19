@@ -4,6 +4,7 @@ Declaration:
 The Buddy Simulator 1984 Saves Manager has nothing related to the game developers of Buddy Simulator 1984.
 ------
 **English** | [中文](https://github.com/HackerRouter/Buddy-Simulator-1984-Saves-Manager/blob/master/README_cn.md)
+
 This application allows you to backup your current game save file and reset it. Also, you can launch the game by a hidden command and you can play a corrupted version of Buddy Simulator 1984.(I tried my best on finishing the fake game, please try it out!)
 
 I haven't found a way to edit the save file, so you can't use it to edit your save at present.
