@@ -2,6 +2,8 @@
 
 Declaration:
 The Buddy Simulator 1984 Saves Manager has nothing related to the game developers of Buddy Simulator 1984.
+
+I WILL REFACTOR THIS SOON.
 ------
 **English** | [中文](https://github.com/HackerRouter/Buddy-Simulator-1984-Saves-Manager/blob/master/README_cn.md)
 
