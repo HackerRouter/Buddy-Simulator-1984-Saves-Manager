@@ -5,7 +5,7 @@ The Buddy Simulator 1984 Saves Manager has nothing related to the game developer
 
 I made this to practise my C#.
 
-I WILL REFACTOR THIS SOON.(NEXT YEAR)
+I WILL REFACTOR THIS SOON.(next NEXT YEAR)
 ------
 **English** | [中文](https://github.com/HackerRouter/Buddy-Simulator-1984-Saves-Manager/blob/master/README_cn.md)
 
